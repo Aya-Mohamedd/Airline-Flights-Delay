@@ -156,7 +156,7 @@ Relationships are established between fact and dimension tables to enable cross-
 
 
 ### **6. Geographic Insights**
-![5-Map](https://github.com/Aya-Mohamedd/Airline-Flights-Delay/blob/main/Screenshots/5-Map.PNG)
+![5-Map](https://github.com/Aya-Mohamedd/Airline-Flights-Delay/blob/main/Screenshots/5-Map.png)
 - Regional stats show 19K flights in Texas, but only 206 on-time
 - High delays in central U.S.
 
