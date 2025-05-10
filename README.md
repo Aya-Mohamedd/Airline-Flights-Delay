@@ -88,7 +88,7 @@ The dataset includes information on:
 
 
 ## 5. Data Model
-![Model](https://github.com/Aya-Mohamedd/Airline-Flights-Delay/blob/main/Screenshots/Model.png)
+![Model](https://github.com/Aya-Mohamedd/Airline-Flights-Delay/blob/main/Screenshots/Model.PNG)
 
 The data model consists of:
 - **Fact Tables**:
@@ -162,7 +162,7 @@ Relationships are established between fact and dimension tables to enable cross-
 
 
 ### **7. Tooltip Summary Cards**
-![6-Tooltip](https://github.com/Aya-Mohamedd/Airline-Flights-Delay/blob/main/Screenshots/6-Tooltip.png)
+![6-Tooltip](https://github.com/Aya-Mohamedd/Airline-Flights-Delay/blob/main/Screenshots/6-Tooltip.PNG)
 - Fast insights: Total, On-Time, Delayed Flights + Delay times
 - Canceled Flights: 633
 - Departure Delay: 43.19 mins | Arrival Delay: 42.20 mins
