@@ -1,5 +1,5 @@
 # Airport Performance Analysis - Power BI Dashboard
-![Logo]
+![Logo](https://github.com/Aya-Mohamedd/Airline-Flights-Delay/blob/main/Screenshots/Logo.png)
 
 ## 1. Problem Overview
 Flight delays, cancellations, and diversions are major concerns in the airline industry, affecting customer satisfaction, operational efficiency, and revenue. This Power BI dashboard analyzes airport performance based on flight data to identify key trends and problem areas.
@@ -88,7 +88,7 @@ The dataset includes information on:
 
 
 ## 5. Data Model
-![Model]
+![Model](https://github.com/Aya-Mohamedd/Airline-Flights-Delay/blob/main/Screenshots/Model.png)
 
 The data model consists of:
 - **Fact Tables**:
@@ -121,11 +121,11 @@ Relationships are established between fact and dimension tables to enable cross-
 
 ## 7. Key Visualizations & Insights
 ### **1. Cover Page**
-![0-Cover]
+![0-Cover](https://github.com/Aya-Mohamedd/Airline-Flights-Delay/blob/main/Screenshots/0-Cover.png)
 - Provides quick navigation and AI-powered Q&A for data insight<br>
 
 ### **2. Overview Dashboard**
-![1-Overview]
+![1-Overview](https://github.com/Aya-Mohamedd/Airline-Flights-Delay/blob/main/Screenshots/1-Overview.png)
 - KPIs: 2M total flights, 5367 aircrafts, 304 active airports
 - Bar chart: Top 10 delayed airports (Houston highest)
 - Line chart: Flights trend shows peaks in winter
@@ -134,7 +134,7 @@ Relationships are established between fact and dimension tables to enable cross-
 
 
 ### **3. Flights Dashboard**
-![2-Flights]
+![2-Flights](https://github.com/Aya-Mohamedd/Airline-Flights-Delay/blob/main/Screenshots/2-Flights.png)
 - 27K on-time, 633 canceled, 7754 diverted flights
 - Top 10 cancellations: Pinnacle & Mesa Airlines
 - Southwest leads in total flights
@@ -142,27 +142,27 @@ Relationships are established between fact and dimension tables to enable cross-
 
 
 ### **4. Delay Dashboard**
-![3-Delays]
+![3-Delays](https://github.com/Aya-Mohamedd/Airline-Flights-Delay/blob/main/Screenshots/3-Delays.png)
 - Delay type KPIs: Late Aircraft (25.30 mins), NAS (15.02), Weather (3.70)
 - Cancellations peak on Tuesdays
 - JetBlue and Comair show high delays again
 
 
 ### **5. Airport Dashboard**
-![4-Airport]
+![4-Airport](https://github.com/Aya-Mohamedd/Airline-Flights-Delay/blob/main/Screenshots/4-Airport.png)
 - ATL and ORD lead in flights
 - Merle K. and Yakutat: Highest delay percentages
 - Midway has top cancellation rate
 
 
 ### **6. Geographic Insights**
-![5-Map]
+![5-Map](https://github.com/Aya-Mohamedd/Airline-Flights-Delay/blob/main/Screenshots/5-Map.png)
 - Regional stats show 19K flights in Texas, but only 206 on-time
 - High delays in central U.S.
 
 
 ### **7. Tooltip Summary Cards**
-![6-Tooltip]
+![6-Tooltip](https://github.com/Aya-Mohamedd/Airline-Flights-Delay/blob/main/Screenshots/6-Tooltip.png)
 - Fast insights: Total, On-Time, Delayed Flights + Delay times
 - Canceled Flights: 633
 - Departure Delay: 43.19 mins | Arrival Delay: 42.20 mins
