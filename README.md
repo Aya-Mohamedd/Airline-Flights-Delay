@@ -167,4 +167,4 @@ Relationships are established between fact and dimension tables to enable cross-
 - Canceled Flights: 633
 - Departure Delay: 43.19 mins | Arrival Delay: 42.20 mins
 
-## I welcome feedback, suggestions, and contributions to improve this project! Feel free to reach out or collaborate to make it even better
+**I welcome feedback, suggestions, and contributions to improve this project! Feel free to reach out or collaborate to make it even better.**
